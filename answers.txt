@@ -1,0 +1,11 @@
+(a)
+pros:
+It makes the process of development more adaptable.
+Designers have more freedom during development.
+There are simultaneous feedback and testing.
+The review cycles are faster.
+
+cons:
+It can be challenging to come up with actual project costs and development process timeframe.
+Losing a developer along the way can have devastating results.
+There is a vague course of action or plan.
