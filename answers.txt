@@ -9,3 +9,10 @@ cons:
 It can be challenging to come up with actual project costs and development process timeframe.
 Losing a developer along the way can have devastating results.
 There is a vague course of action or plan.
+
+(b)
+The Product owner is a highly responsible entity in a project . They maintain the product backlog and ensure that the product meets all requirements. In case of any changes in the product, the Product Owner has to modify the current product backlog to fit these changes and maneuver the project. 
+
+The Scrum Master plays the role of a consultant and take care of the project from all perspectives. The Scrum Master guides the Product Owner on how to manage the teamwork with the use of product backlog, sprint planning and meetings.The Scrum Master coaches the team and ensures that the team is properly aligned to the Scrum process. The Scrum Master manages the Scrum process, ensures its correct implementation and increasing the scope of its benefits throughout the project.
+
+(c)
