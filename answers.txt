@@ -16,3 +16,15 @@ The Product owner is a highly responsible entity in a project . They maintain th
 The Scrum Master plays the role of a consultant and take care of the project from all perspectives. The Scrum Master guides the Product Owner on how to manage the teamwork with the use of product backlog, sprint planning and meetings.The Scrum Master coaches the team and ensures that the team is properly aligned to the Scrum process. The Scrum Master manages the Scrum process, ensures its correct implementation and increasing the scope of its benefits throughout the project.
 
 (c)
+Sprint Planning Meeting:
+▪ Determine what to complete in the coming sprint
+▪ Move stories in sprint scope from backlog to current sprint
+
+Daily Scrum/Standup Meeting:
+▪ Short meeting that happens every day of the sprint
+▪ Team members discuss work completed, work plan for the day and any blockers
+
+Sprint Retrospective Meeting:
+▪ Occurs at the end of the sprint
+▪ Discuss work complete and move incomplete work to backlog
+
