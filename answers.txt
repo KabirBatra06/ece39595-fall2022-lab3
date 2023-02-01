@@ -28,3 +28,18 @@ Sprint Retrospective Meeting:
 ▪ Occurs at the end of the sprint
 ▪ Discuss work complete and move incomplete work to backlog
 
+(d)
+Epic:
+▪ Captures a large body of work that can be broken down into several
+smaller stories
+
+Story:
+▪ A software system requirement that is expressed in a few short
+sentences.
+
+Bug:
+▪ Somthing that is stopping the progress of a story
+
+Task:
+▪ It is work that currently needs to be done
+
